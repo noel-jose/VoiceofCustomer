@@ -1,0 +1,50 @@
+.container{
+    margin: 0px 83px;
+}
+
+
+/* font sizes  */
+
+.sm {
+    font-size: 12px;
+}
+
+.md{
+    font-size: 18px;
+}
+
+.lg{
+    font-size: 32px;
+}
+
+.xl{
+    font-size: 56px;
+}
+
+/* text position  */
+
+.text-center{
+    text-align: center;
+}
+
+/* button  */
+.btn{
+    color:#fff;
+    border-radius: 5px;
+    padding: 12px 16px;
+    background: var(--green);
+    border: 0;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+
+/* displays  */
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+

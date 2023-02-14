@@ -1,0 +1,54 @@
+
+        <footer>
+            <div>
+                <h5>Company</h5>
+                <span>About Us</span>
+                <span>News</span>
+                <span>Careers</span>
+                <span>Media</span>
+            </div>
+
+            <div>
+                <h5>Resources</h5>
+                <span>Partners</span>
+                <span>Case Studies</span>
+                <span>Wall of Love</span>
+                <span>Developers</span>
+                <span>Community</span>
+            </div>
+
+            <div>
+                <h5>Free Tools</h5>
+                <span>Templates</span>
+                <span>Rate the meeting</span>
+                <span>Awards Generator</span>
+                <span>NPS Benchmarks</span>
+                <span>NPS Calculator</span>
+                <span>SaaS Affiliate Calculator</span>
+
+            </div>
+
+            <div>
+                <h5>Sales</h5>
+                <span>Free Trial</span>
+                <span>Contact Sales</span>
+                <span>Request Demo</span>
+                <span>Plans & Pricing</span>
+            </div>
+
+            <div class="connect">
+                <h5>Connect</h5>
+                <div class="phone"><img id="phone_icon" src="./assets/img/footer/1.svg" alt="">
+                    +1 (800) 481-0410 </div>
+                <div class="email"><img id="email_icon" src="./assets/img/footer/2.svg" alt="">support@surveysparrow.com</div>
+                <div class="socials_container">
+                    <img src="./assets/img/footer/3.svg" alt="">
+                    <img src="./assets/img/footer/4.svg" alt="">
+                    <img src="./assets/img/footer/5.svg" alt="">
+                    <img src="./assets/img/footer/6.svg" alt="">
+                    <img src="./assets/img/footer/7.svg" alt="">
+                </div>
+                <img class="footer_logo" src="./assets/img/footer/footer_logo.png" alt="">
+            </div>
+
+        </footer>
